@@ -1,6 +1,5 @@
 # Customer Segmentation
 Customer Segmentation of Mall Customers Using KMeans Clustering
-
 ![Scatter Plot](https://github.com/momamis/Customer-Segmentation/blob/main/clustering_bivaariate.png)
 
 ## Executive Summary
